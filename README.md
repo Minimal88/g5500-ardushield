@@ -15,6 +15,8 @@ You have a couple of different options for producing this shield:
 
 Once you have a board ready make sure to flash the board with the K3NG software, properly configured for the pins assigned to each function.
 
+You can see some pictures of the board homebrewed [here](https://goo.gl/photos/bw671UsoGTs3t2yWA).
+
 ## Contribute
 
 Please open a github issue for any suggestions or bugs you find.
