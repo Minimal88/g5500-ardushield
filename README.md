@@ -18,3 +18,9 @@ Once you have a board ready make sure to flash the board with the K3NG software,
 ## Contribute
 
 Please open a github issue for any suggestions or bugs you find.
+
+
+## License
+
+This work is released under ﻿CERN Open Hardware Licence v1.2 
+Copyright 2016 Libre Space Foundation
