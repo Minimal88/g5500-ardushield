@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/liknus/git/g5500-hsgr/g5500-arduishield.sch</source>
+    <date>Fri 01 Jan 2016 06:48:10 PM EET</date>
+    <tool>Eeschema 4.0.1-2.fc23-product</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>g5500-arduishield.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SHIELD1">
+      <value>ARDUINO_SHIELD</value>
+      <footprint>freetronics_footprints:ARDUINO_SHIELD</footprint>
+      <libsource lib="g5500-ardushield" part="ARDUINO_SHIELD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682C70D</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>PN2222A</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Wide</footprint>
+      <libsource lib="g5500-ardushield" part="PN2222A-RESCUE-g5500-hsgr"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682CC24</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>PN2222A</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Wide</footprint>
+      <libsource lib="g5500-ardushield" part="PN2222A-RESCUE-g5500-hsgr"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682CE70</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>PN2222A</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Wide</footprint>
+      <libsource lib="g5500-ardushield" part="PN2222A-RESCUE-g5500-hsgr"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682CE9B</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>PN2222A</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Inline_Wide</footprint>
+      <libsource lib="g5500-ardushield" part="PN2222A-RESCUE-g5500-hsgr"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682CEBE</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682D180</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682D1C2</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682D1F9</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682D224</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>33K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682D4D3</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>33K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682D508</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>33K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682D56D</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>33K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682D5BA</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682DF1E</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM10mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682E0C8</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10n</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D6_P5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682E2F9</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10n</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D6_P5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682E508</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10n</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D6_P5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682EC0B</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10n</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D6_P5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682EEE9</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>10n</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D6_P5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682EF32</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>10n</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D6_P5</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682EF77</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>M08</value>
+      <footprint>freetronics_footprints:1X08</footprint>
+      <libsource lib="g5500-ardushield" part="M08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5682EB07</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="g5500-ardushield" part="ARDUINO_SHIELD">
+      <fields>
+        <field name="Reference">SHIELD</field>
+        <field name="Value">ARDUINO_SHIELD</field>
+      </fields>
+      <pins>
+        <pin num="0" name="0" type="BiDi"/>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+        <pin num="3" name="3" type="BiDi"/>
+        <pin num="4" name="4" type="BiDi"/>
+        <pin num="5" name="5" type="BiDi"/>
+        <pin num="5V" name="5V" type="power_in"/>
+        <pin num="6" name="6" type="BiDi"/>
+        <pin num="7" name="7" type="BiDi"/>
+        <pin num="8" name="8" type="BiDi"/>
+        <pin num="9" name="9" type="BiDi"/>
+        <pin num="10" name="10" type="BiDi"/>
+        <pin num="11" name="11" type="BiDi"/>
+        <pin num="12" name="12" type="BiDi"/>
+        <pin num="13" name="13" type="BiDi"/>
+        <pin num="3V3" name="3V3" type="power_in"/>
+        <pin num="AD0" name="AD0" type="BiDi"/>
+        <pin num="AD1" name="AD1" type="BiDi"/>
+        <pin num="AD2" name="AD2" type="BiDi"/>
+        <pin num="AD3" name="AD3" type="BiDi"/>
+        <pin num="AD4" name="AD4" type="BiDi"/>
+        <pin num="AD5" name="AD5" type="BiDi"/>
+        <pin num="AREF" name="AREF" type="power_in"/>
+        <pin num="GND1" name="GND1" type="power_in"/>
+        <pin num="GND2" name="GND2" type="power_in"/>
+        <pin num="GND3" name="GND3" type="power_in"/>
+        <pin num="RST" name="RST" type="input"/>
+        <pin num="V_IN" name="V_IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="g5500-ardushield" part="M08">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">M08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="g5500-ardushield" part="PN2222A-RESCUE-g5500-hsgr">
+      <footprints>
+        <fp>TO-92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PN2222A-RESCUE-g5500-hsgr</field>
+        <field name="Footprint">TO-92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="g5500-ardushield">
+      <uri>/home/liknus/git/g5500-hsgr/library/g5500-ardushield.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="D">
+      <node ref="C3" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="JP1" pin="5"/>
+    </net>
+    <net code="2" name="Net-(SHIELD1-PadAD3)">
+      <node ref="SHIELD1" pin="AD3"/>
+    </net>
+    <net code="3" name="Net-(SHIELD1-Pad3)">
+      <node ref="SHIELD1" pin="3"/>
+    </net>
+    <net code="4" name="Net-(SHIELD1-Pad2)">
+      <node ref="SHIELD1" pin="2"/>
+    </net>
+    <net code="5" name="Net-(SHIELD1-Pad1)">
+      <node ref="SHIELD1" pin="1"/>
+    </net>
+    <net code="6" name="Net-(SHIELD1-Pad0)">
+      <node ref="SHIELD1" pin="0"/>
+    </net>
+    <net code="7" name="Net-(SHIELD1-PadGND2)">
+      <node ref="SHIELD1" pin="GND2"/>
+    </net>
+    <net code="8" name="Net-(SHIELD1-Pad3V3)">
+      <node ref="SHIELD1" pin="3V3"/>
+    </net>
+    <net code="9" name="Net-(SHIELD1-Pad5V)">
+      <node ref="SHIELD1" pin="5V"/>
+    </net>
+    <net code="10" name="Net-(SHIELD1-PadV_IN)">
+      <node ref="SHIELD1" pin="V_IN"/>
+    </net>
+    <net code="11" name="Net-(SHIELD1-PadAD2)">
+      <node ref="SHIELD1" pin="AD2"/>
+    </net>
+    <net code="12" name="Net-(SHIELD1-PadAD4)">
+      <node ref="SHIELD1" pin="AD4"/>
+    </net>
+    <net code="13" name="Net-(SHIELD1-PadAD5)">
+      <node ref="SHIELD1" pin="AD5"/>
+    </net>
+    <net code="14" name="Net-(R1-Pad2)">
+      <node ref="SHIELD1" pin="AD1"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="15" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="SHIELD1" pin="AD0"/>
+    </net>
+    <net code="16" name="H">
+      <node ref="R1" pin="1"/>
+      <node ref="JP1" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="17" name="R">
+      <node ref="C6" pin="1"/>
+      <node ref="JP1" pin="2"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="18" name="U">
+      <node ref="R9" pin="1"/>
+      <node ref="JP1" pin="3"/>
+      <node ref="C5" pin="1"/>
+    </net>
+    <net code="19" name="V">
+      <node ref="C2" pin="2"/>
+      <node ref="JP1" pin="6"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="20" name="L">
+      <node ref="JP1" pin="4"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="Q3" pin="3"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="SHIELD1" pin="GND1"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="Q4" pin="3"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C1" pin="2"/>
+      <node ref="SHIELD1" pin="GND3"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="JP1" pin="8"/>
+    </net>
+    <net code="22" name="Net-(JP1-Pad7)">
+      <node ref="JP1" pin="7"/>
+    </net>
+    <net code="23" name="Net-(SHIELD1-PadAREF)">
+      <node ref="SHIELD1" pin="AREF"/>
+    </net>
+    <net code="24" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="25" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="26" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="27" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2"/>
+      <node ref="SHIELD1" pin="6"/>
+    </net>
+    <net code="28" name="Net-(Q1-Pad2)">
+      <node ref="R3" pin="1"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="29" name="Net-(SHIELD1-Pad12)">
+      <node ref="SHIELD1" pin="12"/>
+    </net>
+    <net code="30" name="Net-(SHIELD1-Pad4)">
+      <node ref="SHIELD1" pin="4"/>
+    </net>
+    <net code="31" name="Net-(SHIELD1-Pad5)">
+      <node ref="SHIELD1" pin="5"/>
+    </net>
+    <net code="32" name="Net-(SHIELD1-Pad10)">
+      <node ref="SHIELD1" pin="10"/>
+    </net>
+    <net code="33" name="Net-(SHIELD1-Pad11)">
+      <node ref="SHIELD1" pin="11"/>
+    </net>
+    <net code="34" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2"/>
+      <node ref="SHIELD1" pin="9"/>
+    </net>
+    <net code="35" name="Net-(SHIELD1-Pad13)">
+      <node ref="SHIELD1" pin="13"/>
+    </net>
+    <net code="36" name="Net-(SHIELD1-PadRST)">
+      <node ref="SHIELD1" pin="RST"/>
+    </net>
+    <net code="37" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="38" name="Net-(R4-Pad2)">
+      <node ref="SHIELD1" pin="8"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="39" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="2"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="40" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2"/>
+      <node ref="SHIELD1" pin="7"/>
+    </net>
+    <net code="41" name="Net-(Q4-Pad2)">
+      <node ref="Q4" pin="2"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="42" name="Net-(Q1-Pad1)">
+      <node ref="R7" pin="2"/>
+      <node ref="Q1" pin="1"/>
+    </net>
+  </nets>
+</export>
