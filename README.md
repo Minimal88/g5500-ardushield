@@ -5,6 +5,7 @@ An arduino shield for controlling a Yaesu G5000 rotator.
 This is a simple Arduino Shield (compatible for any Duemilenove or Uno like boards) for controlling a Yaesu G5500 Antenna rotator.
 
 This shield is designed to be used with K3NG Rotator controller software (flashed on arduino) which you can find [here](https://github.com/k3ng/k3ng_rotator_controller).
+For the specific configuration please have a look on the branch maintained for this [here](https://github.com/ppapadeas/k3ng_rotator_controller/tree/lsf-g5500).
 
 ## Instructions
 
@@ -24,5 +25,5 @@ Please open a github issue for any suggestions or bugs you find.
 
 ## License
 
-This work is released under ﻿CERN Open Hardware Licence v1.2 
+This work is released under ﻿CERN Open Hardware Licence v1.2
 Copyright 2016 Libre Space Foundation
